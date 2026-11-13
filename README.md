@@ -1,20 +1,31 @@
-# Nuvio Comprehensive Badges (image-backed)
+# Nuvio Comprehensive Badges
 
-This pack contains a Fusion/Nuvio `badges.json` and one transparent PNG label asset per filter.
+A single Fusion badge configuration for Nuvio.
 
-## Install
+## Import URL
 
-1. Create a **public GitHub repository** named `nuvio-comprehensive-badges`.
-2. Upload the contents of this folder (`badges.json` and the `badges/` folder) to the repository root.
-3. In `badges.json`, replace every occurrence of `YOUR-GITHUB-USERNAME` with your GitHub username. (Use Find & Replace.)
-4. Commit the changes.
-5. Open the raw `badges.json` file in GitHub and copy its Raw URL.
-6. Import that Raw URL in Nuvio → Settings → Streams → Fusion Badge URLs.
+`https://raw.githubusercontent.com/kendiglisa/nuvio-comprehensive-badges/main/badges.json`
 
-The JSON references the PNGs in the same repository at `/badges/<filter-id>.png`.
+Import this one URL in Nuvio → Settings → Streams → Fusion Badge URLs.
 
-## Important test note
+## What's included
 
-Nuvio matches the stream title returned by the add-on, not the movie's catalogue title. A catalogue title such as `Mirzapur The Movie` contains no source/resolution token, so it cannot match WEB-DL, HDTC, 1080p, etc. Use the full stream result title/filename shown in the source picker for testing.
+- 167 original release, resolution, HDR, codec, audio, edition, service, container, subtitle, 3D, frame-rate and disc-structure filters.
+- 83 language badges, each with its own group ID so multiple language badges can appear together.
+- Dual Audio, Multi Audio and Original Audio badges in a separate audio-mode group.
+- 99 groups and 253 total filters.
 
-This pack's badges are image-backed; it does not rely on undocumented empty-image fallback behaviour.
+## Image hosting
+
+- The original 167 badge PNGs are stored in this repository's root.
+- The 83 language badges and 3 audio-mode badges are served as PNG images by Shields.io's raster service. This avoids requiring 86 additional files in the repository.
+
+## Language detection limitations
+
+Language badges match explicit language names or ISO-639-2/3 codes in the stream title returned by an add-on. They cannot inspect a media file's audio tracks. A title containing only `DUAL AUDIO` can show the Dual Audio badge but cannot reveal which two languages are present.
+
+Two-letter language codes are intentionally not matched on their own to reduce false positives. Use full language names or three-letter codes in stream names where possible.
+
+## Notes
+
+Nuvio displays at most one matching badge per group. Each language therefore has a distinct group ID; this allows titles such as `Hindi English Dual Audio` to show Hindi, English and Dual Audio badges together.

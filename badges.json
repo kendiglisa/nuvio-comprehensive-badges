@@ -104,6 +104,594 @@
       "color": "#00000000",
       "borderColor": "#FF795548",
       "isExpanded": true
+    },
+    {
+      "id": "audio-mode",
+      "name": "Audio Mode",
+      "color": "#00000000",
+      "borderColor": "#FFD35400",
+      "isExpanded": true
+    },
+    {
+      "id": "language-eng",
+      "name": "Language: English",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-hin",
+      "name": "Language: Hindi",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-tam",
+      "name": "Language: Tamil",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-tel",
+      "name": "Language: Telugu",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-mal",
+      "name": "Language: Malayalam",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-kan",
+      "name": "Language: Kannada",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-mar",
+      "name": "Language: Marathi",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ben",
+      "name": "Language: Bengali",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-pan",
+      "name": "Language: Punjabi",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-guj",
+      "name": "Language: Gujarati",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-urd",
+      "name": "Language: Urdu",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-san",
+      "name": "Language: Sanskrit",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ori",
+      "name": "Language: Odia",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-asm",
+      "name": "Language: Assamese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-nep",
+      "name": "Language: Nepali",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-bho",
+      "name": "Language: Bhojpuri",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-mai",
+      "name": "Language: Maithili",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-kok",
+      "name": "Language: Konkani",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-mni",
+      "name": "Language: Manipuri",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-kas",
+      "name": "Language: Kashmiri",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-doi",
+      "name": "Language: Dogri",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-snd",
+      "name": "Language: Sindhi",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-fra",
+      "name": "Language: French",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-deu",
+      "name": "Language: German",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-spa",
+      "name": "Language: Spanish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-por",
+      "name": "Language: Portuguese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-pob",
+      "name": "Language: Brazilian Portuguese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ita",
+      "name": "Language: Italian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-jpn",
+      "name": "Language: Japanese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-kor",
+      "name": "Language: Korean",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-zho",
+      "name": "Language: Chinese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-yue",
+      "name": "Language: Cantonese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-rus",
+      "name": "Language: Russian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ukr",
+      "name": "Language: Ukrainian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-pol",
+      "name": "Language: Polish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-nld",
+      "name": "Language: Dutch",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-swe",
+      "name": "Language: Swedish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-nor",
+      "name": "Language: Norwegian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-dan",
+      "name": "Language: Danish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-fin",
+      "name": "Language: Finnish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ell",
+      "name": "Language: Greek",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-tur",
+      "name": "Language: Turkish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ara",
+      "name": "Language: Arabic",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-heb",
+      "name": "Language: Hebrew",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-fas",
+      "name": "Language: Persian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-tha",
+      "name": "Language: Thai",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-vie",
+      "name": "Language: Vietnamese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ind",
+      "name": "Language: Indonesian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-msa",
+      "name": "Language: Malay",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-fil",
+      "name": "Language: Filipino",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-swa",
+      "name": "Language: Swahili",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ron",
+      "name": "Language: Romanian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ces",
+      "name": "Language: Czech",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-slk",
+      "name": "Language: Slovak",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-hun",
+      "name": "Language: Hungarian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-bul",
+      "name": "Language: Bulgarian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-hrv",
+      "name": "Language: Croatian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-srp",
+      "name": "Language: Serbian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-bos",
+      "name": "Language: Bosnian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-slv",
+      "name": "Language: Slovenian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-lit",
+      "name": "Language: Lithuanian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-lav",
+      "name": "Language: Latvian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-est",
+      "name": "Language: Estonian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-isl",
+      "name": "Language: Icelandic",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-gle",
+      "name": "Language: Irish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-cym",
+      "name": "Language: Welsh",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-cat",
+      "name": "Language: Catalan",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-eus",
+      "name": "Language: Basque",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-glg",
+      "name": "Language: Galician",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-afr",
+      "name": "Language: Afrikaans",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-amh",
+      "name": "Language: Amharic",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-hau",
+      "name": "Language: Hausa",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-yor",
+      "name": "Language: Yoruba",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-ibo",
+      "name": "Language: Igbo",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-zul",
+      "name": "Language: Zulu",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-xho",
+      "name": "Language: Xhosa",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-mya",
+      "name": "Language: Burmese",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-khm",
+      "name": "Language: Khmer",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-lao",
+      "name": "Language: Lao",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-mon",
+      "name": "Language: Mongolian",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-pus",
+      "name": "Language: Pashto",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-kur",
+      "name": "Language: Kurdish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
+    },
+    {
+      "id": "language-yid",
+      "name": "Language: Yiddish",
+      "color": "#00000000",
+      "borderColor": "#FF117864",
+      "isExpanded": false
     }
   ],
   "filters": [
@@ -2277,6 +2865,1124 @@
       "tagStyle": "filled and bordered",
       "type": "filter",
       "imageURL": "https://raw.githubusercontent.com/kendiglisa/nuvio-comprehensive-badges/main/subtitle-dubbed.png"
+    },
+    {
+      "id": "audio-mode-dual-audio",
+      "groupId": "audio-mode",
+      "name": "Dual Audio",
+      "pattern": "(?i)\\bdual[ ._-]?audio\\b|\\bdual[ ._-]?language\\b",
+      "imageURL": "https://raster.shields.io/badge/DUAL_AUDIO-D35400?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FFD35400",
+      "textColor": "#FFD35400",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "audio-mode-multi-audio",
+      "groupId": "audio-mode",
+      "name": "Multi Audio",
+      "pattern": "(?i)\\b(?:multi[ ._-]?audio|multiple[ ._-]?audio)\\b",
+      "imageURL": "https://raster.shields.io/badge/MULTI_AUDIO-D35400?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FFD35400",
+      "textColor": "#FFD35400",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "audio-mode-original-audio",
+      "groupId": "audio-mode",
+      "name": "Original Audio",
+      "pattern": "(?i)\\boriginal[ ._-]?audio\\b",
+      "imageURL": "https://raster.shields.io/badge/ORIGINAL_AUDIO-D35400?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FFD35400",
+      "textColor": "#FFD35400",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-eng",
+      "groupId": "language-eng",
+      "name": "English",
+      "pattern": "(?i)(?<![A-Za-z])(?:english|eng)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ENGLISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-hin",
+      "groupId": "language-hin",
+      "name": "Hindi",
+      "pattern": "(?i)(?<![A-Za-z])(?:hindi|hin)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/HINDI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-tam",
+      "groupId": "language-tam",
+      "name": "Tamil",
+      "pattern": "(?i)(?<![A-Za-z])(?:tamil|tam)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/TAMIL-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-tel",
+      "groupId": "language-tel",
+      "name": "Telugu",
+      "pattern": "(?i)(?<![A-Za-z])(?:telugu|tel)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/TELUGU-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-mal",
+      "groupId": "language-mal",
+      "name": "Malayalam",
+      "pattern": "(?i)(?<![A-Za-z])(?:malayalam|mal)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/MALAYALAM-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-kan",
+      "groupId": "language-kan",
+      "name": "Kannada",
+      "pattern": "(?i)(?<![A-Za-z])(?:kannada|kan)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/KANNADA-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-mar",
+      "groupId": "language-mar",
+      "name": "Marathi",
+      "pattern": "(?i)(?<![A-Za-z])(?:marathi|mar)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/MARATHI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ben",
+      "groupId": "language-ben",
+      "name": "Bengali",
+      "pattern": "(?i)(?<![A-Za-z])(?:bengali|bangla|ben)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BENGALI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-pan",
+      "groupId": "language-pan",
+      "name": "Punjabi",
+      "pattern": "(?i)(?<![A-Za-z])(?:punjabi|pan)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/PUNJABI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-guj",
+      "groupId": "language-guj",
+      "name": "Gujarati",
+      "pattern": "(?i)(?<![A-Za-z])(?:gujarati|guj)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/GUJARATI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-urd",
+      "groupId": "language-urd",
+      "name": "Urdu",
+      "pattern": "(?i)(?<![A-Za-z])(?:urdu|urd)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/URDU-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-san",
+      "groupId": "language-san",
+      "name": "Sanskrit",
+      "pattern": "(?i)(?<![A-Za-z])(?:sanskrit|san)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SANSKRIT-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ori",
+      "groupId": "language-ori",
+      "name": "Odia",
+      "pattern": "(?i)(?<![A-Za-z])(?:odia|oriya|ori)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ODIA-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-asm",
+      "groupId": "language-asm",
+      "name": "Assamese",
+      "pattern": "(?i)(?<![A-Za-z])(?:assamese|asm)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ASSAMESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-nep",
+      "groupId": "language-nep",
+      "name": "Nepali",
+      "pattern": "(?i)(?<![A-Za-z])(?:nepali|nep)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/NEPALI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-bho",
+      "groupId": "language-bho",
+      "name": "Bhojpuri",
+      "pattern": "(?i)(?<![A-Za-z])(?:bhojpuri|bho)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BHOJPURI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-mai",
+      "groupId": "language-mai",
+      "name": "Maithili",
+      "pattern": "(?i)(?<![A-Za-z])(?:maithili|mai)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/MAITHILI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-kok",
+      "groupId": "language-kok",
+      "name": "Konkani",
+      "pattern": "(?i)(?<![A-Za-z])(?:konkani|kok)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/KONKANI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-mni",
+      "groupId": "language-mni",
+      "name": "Manipuri",
+      "pattern": "(?i)(?<![A-Za-z])(?:manipuri|meitei|mni)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/MANIPURI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-kas",
+      "groupId": "language-kas",
+      "name": "Kashmiri",
+      "pattern": "(?i)(?<![A-Za-z])(?:kashmiri|kas)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/KASHMIRI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-doi",
+      "groupId": "language-doi",
+      "name": "Dogri",
+      "pattern": "(?i)(?<![A-Za-z])(?:dogri|doi)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/DOGRI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-snd",
+      "groupId": "language-snd",
+      "name": "Sindhi",
+      "pattern": "(?i)(?<![A-Za-z])(?:sindhi|snd)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SINDHI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-fra",
+      "groupId": "language-fra",
+      "name": "French",
+      "pattern": "(?i)(?<![A-Za-z])(?:french|fra|fre)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/FRENCH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-deu",
+      "groupId": "language-deu",
+      "name": "German",
+      "pattern": "(?i)(?<![A-Za-z])(?:german|deu|ger)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/GERMAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-spa",
+      "groupId": "language-spa",
+      "name": "Spanish",
+      "pattern": "(?i)(?<![A-Za-z])(?:spanish|spa|espanol)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SPANISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-por",
+      "groupId": "language-por",
+      "name": "Portuguese",
+      "pattern": "(?i)(?<![A-Za-z])(?:portuguese|por)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/PORTUGUESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-pob",
+      "groupId": "language-pob",
+      "name": "Brazilian Portuguese",
+      "pattern": "(?i)(?<![A-Za-z])(?:brazilian portuguese|pt-br|pob)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BRAZIL_PT-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ita",
+      "groupId": "language-ita",
+      "name": "Italian",
+      "pattern": "(?i)(?<![A-Za-z])(?:italian|ita)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ITALIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-jpn",
+      "groupId": "language-jpn",
+      "name": "Japanese",
+      "pattern": "(?i)(?<![A-Za-z])(?:japanese|jpn|jap)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/JAPANESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-kor",
+      "groupId": "language-kor",
+      "name": "Korean",
+      "pattern": "(?i)(?<![A-Za-z])(?:korean|kor)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/KOREAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-zho",
+      "groupId": "language-zho",
+      "name": "Chinese",
+      "pattern": "(?i)(?<![A-Za-z])(?:chinese|zho|chi|mandarin)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/CHINESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-yue",
+      "groupId": "language-yue",
+      "name": "Cantonese",
+      "pattern": "(?i)(?<![A-Za-z])(?:cantonese|yue)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/CANTONESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-rus",
+      "groupId": "language-rus",
+      "name": "Russian",
+      "pattern": "(?i)(?<![A-Za-z])(?:russian|rus)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/RUSSIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ukr",
+      "groupId": "language-ukr",
+      "name": "Ukrainian",
+      "pattern": "(?i)(?<![A-Za-z])(?:ukrainian|ukr)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/UKRAINIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-pol",
+      "groupId": "language-pol",
+      "name": "Polish",
+      "pattern": "(?i)(?<![A-Za-z])(?:polish|pol)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/POLISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-nld",
+      "groupId": "language-nld",
+      "name": "Dutch",
+      "pattern": "(?i)(?<![A-Za-z])(?:dutch|nld|dut)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/DUTCH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-swe",
+      "groupId": "language-swe",
+      "name": "Swedish",
+      "pattern": "(?i)(?<![A-Za-z])(?:swedish|swe)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SWEDISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-nor",
+      "groupId": "language-nor",
+      "name": "Norwegian",
+      "pattern": "(?i)(?<![A-Za-z])(?:norwegian|nor)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/NORWEGIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-dan",
+      "groupId": "language-dan",
+      "name": "Danish",
+      "pattern": "(?i)(?<![A-Za-z])(?:danish|dan)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/DANISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-fin",
+      "groupId": "language-fin",
+      "name": "Finnish",
+      "pattern": "(?i)(?<![A-Za-z])(?:finnish|fin)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/FINNISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ell",
+      "groupId": "language-ell",
+      "name": "Greek",
+      "pattern": "(?i)(?<![A-Za-z])(?:greek|ell|gre)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/GREEK-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-tur",
+      "groupId": "language-tur",
+      "name": "Turkish",
+      "pattern": "(?i)(?<![A-Za-z])(?:turkish|tur)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/TURKISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ara",
+      "groupId": "language-ara",
+      "name": "Arabic",
+      "pattern": "(?i)(?<![A-Za-z])(?:arabic|ara)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ARABIC-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-heb",
+      "groupId": "language-heb",
+      "name": "Hebrew",
+      "pattern": "(?i)(?<![A-Za-z])(?:hebrew|heb)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/HEBREW-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-fas",
+      "groupId": "language-fas",
+      "name": "Persian",
+      "pattern": "(?i)(?<![A-Za-z])(?:persian|farsi|fas|per)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/PERSIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-tha",
+      "groupId": "language-tha",
+      "name": "Thai",
+      "pattern": "(?i)(?<![A-Za-z])(?:thai|tha)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/THAI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-vie",
+      "groupId": "language-vie",
+      "name": "Vietnamese",
+      "pattern": "(?i)(?<![A-Za-z])(?:vietnamese|vie)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/VIETNAMESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ind",
+      "groupId": "language-ind",
+      "name": "Indonesian",
+      "pattern": "(?i)(?<![A-Za-z])(?:indonesian|ind)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/INDONESIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-msa",
+      "groupId": "language-msa",
+      "name": "Malay",
+      "pattern": "(?i)(?<![A-Za-z])(?:malay|msa|may)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/MALAY-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-fil",
+      "groupId": "language-fil",
+      "name": "Filipino",
+      "pattern": "(?i)(?<![A-Za-z])(?:filipino|tagalog|fil)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/FILIPINO-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-swa",
+      "groupId": "language-swa",
+      "name": "Swahili",
+      "pattern": "(?i)(?<![A-Za-z])(?:swahili|swa)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SWAHILI-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ron",
+      "groupId": "language-ron",
+      "name": "Romanian",
+      "pattern": "(?i)(?<![A-Za-z])(?:romanian|ron|rum)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ROMANIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ces",
+      "groupId": "language-ces",
+      "name": "Czech",
+      "pattern": "(?i)(?<![A-Za-z])(?:czech|ces|cze)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/CZECH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-slk",
+      "groupId": "language-slk",
+      "name": "Slovak",
+      "pattern": "(?i)(?<![A-Za-z])(?:slovak|slk|slo)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SLOVAK-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-hun",
+      "groupId": "language-hun",
+      "name": "Hungarian",
+      "pattern": "(?i)(?<![A-Za-z])(?:hungarian|hun)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/HUNGARIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-bul",
+      "groupId": "language-bul",
+      "name": "Bulgarian",
+      "pattern": "(?i)(?<![A-Za-z])(?:bulgarian|bul)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BULGARIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-hrv",
+      "groupId": "language-hrv",
+      "name": "Croatian",
+      "pattern": "(?i)(?<![A-Za-z])(?:croatian|hrv)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/CROATIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-srp",
+      "groupId": "language-srp",
+      "name": "Serbian",
+      "pattern": "(?i)(?<![A-Za-z])(?:serbian|srp)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SERBIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-bos",
+      "groupId": "language-bos",
+      "name": "Bosnian",
+      "pattern": "(?i)(?<![A-Za-z])(?:bosnian|bos)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BOSNIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-slv",
+      "groupId": "language-slv",
+      "name": "Slovenian",
+      "pattern": "(?i)(?<![A-Za-z])(?:slovenian|slv)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/SLOVENIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-lit",
+      "groupId": "language-lit",
+      "name": "Lithuanian",
+      "pattern": "(?i)(?<![A-Za-z])(?:lithuanian|lit)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/LITHUANIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-lav",
+      "groupId": "language-lav",
+      "name": "Latvian",
+      "pattern": "(?i)(?<![A-Za-z])(?:latvian|lav)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/LATVIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-est",
+      "groupId": "language-est",
+      "name": "Estonian",
+      "pattern": "(?i)(?<![A-Za-z])(?:estonian|est)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ESTONIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-isl",
+      "groupId": "language-isl",
+      "name": "Icelandic",
+      "pattern": "(?i)(?<![A-Za-z])(?:icelandic|isl|ice)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ICELANDIC-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-gle",
+      "groupId": "language-gle",
+      "name": "Irish",
+      "pattern": "(?i)(?<![A-Za-z])(?:irish|gle)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/IRISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-cym",
+      "groupId": "language-cym",
+      "name": "Welsh",
+      "pattern": "(?i)(?<![A-Za-z])(?:welsh|cym|wel)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/WELSH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-cat",
+      "groupId": "language-cat",
+      "name": "Catalan",
+      "pattern": "(?i)(?<![A-Za-z])(?:catalan|cat)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/CATALAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-eus",
+      "groupId": "language-eus",
+      "name": "Basque",
+      "pattern": "(?i)(?<![A-Za-z])(?:basque|eus|baq)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BASQUE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-glg",
+      "groupId": "language-glg",
+      "name": "Galician",
+      "pattern": "(?i)(?<![A-Za-z])(?:galician|glg)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/GALICIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-afr",
+      "groupId": "language-afr",
+      "name": "Afrikaans",
+      "pattern": "(?i)(?<![A-Za-z])(?:afrikaans|afr)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/AFRIKAANS-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-amh",
+      "groupId": "language-amh",
+      "name": "Amharic",
+      "pattern": "(?i)(?<![A-Za-z])(?:amharic|amh)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/AMHARIC-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-hau",
+      "groupId": "language-hau",
+      "name": "Hausa",
+      "pattern": "(?i)(?<![A-Za-z])(?:hausa|hau)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/HAUSA-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-yor",
+      "groupId": "language-yor",
+      "name": "Yoruba",
+      "pattern": "(?i)(?<![A-Za-z])(?:yoruba|yor)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/YORUBA-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-ibo",
+      "groupId": "language-ibo",
+      "name": "Igbo",
+      "pattern": "(?i)(?<![A-Za-z])(?:igbo|ibo)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/IGBO-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-zul",
+      "groupId": "language-zul",
+      "name": "Zulu",
+      "pattern": "(?i)(?<![A-Za-z])(?:zulu|zul)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/ZULU-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-xho",
+      "groupId": "language-xho",
+      "name": "Xhosa",
+      "pattern": "(?i)(?<![A-Za-z])(?:xhosa|xho)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/XHOSA-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-mya",
+      "groupId": "language-mya",
+      "name": "Burmese",
+      "pattern": "(?i)(?<![A-Za-z])(?:burmese|mya|bur)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/BURMESE-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-khm",
+      "groupId": "language-khm",
+      "name": "Khmer",
+      "pattern": "(?i)(?<![A-Za-z])(?:khmer|khm)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/KHMER-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-lao",
+      "groupId": "language-lao",
+      "name": "Lao",
+      "pattern": "(?i)(?<![A-Za-z])(?:lao)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/LAO-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-mon",
+      "groupId": "language-mon",
+      "name": "Mongolian",
+      "pattern": "(?i)(?<![A-Za-z])(?:mongolian|mon)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/MONGOLIAN-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-pus",
+      "groupId": "language-pus",
+      "name": "Pashto",
+      "pattern": "(?i)(?<![A-Za-z])(?:pashto|pus)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/PASHTO-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-kur",
+      "groupId": "language-kur",
+      "name": "Kurdish",
+      "pattern": "(?i)(?<![A-Za-z])(?:kurdish|kur)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/KURDISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "language-yid",
+      "groupId": "language-yid",
+      "name": "Yiddish",
+      "pattern": "(?i)(?<![A-Za-z])(?:yiddish|yid)(?![A-Za-z])",
+      "imageURL": "https://raster.shields.io/badge/YIDDISH-117864?style=flat-square",
+      "tagColor": "#00000000",
+      "borderColor": "#FF117864",
+      "textColor": "#FF117864",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
     }
   ]
 }
